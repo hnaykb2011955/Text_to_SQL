@@ -1,0 +1,5 @@
+transformers
+torch
+mysql-connector-python
+pandas
+flask
